@@ -1,0 +1,1 @@
+{"check":{"id":"vxiv08tubud3p9d9haeb","userPhone":"0729390088","protocol":"http","url":"yahoo.com","method":"get","successCodes":[200,201],"timeoutSeconds":3,"state":"down","lastChecked":1644974050649},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1644974070641}
